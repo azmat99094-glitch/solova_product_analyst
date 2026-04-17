@@ -5,7 +5,7 @@ I'm a **Product Analyst** with 4+ years of experience in banking analytics, spec
 ## 🛠️ Technologies & Tools
 - **SQL** (MS SQL Server, PostgreSQL, Clickhouse)
 - **Python** (Pandas, NumPy, SciPy, PySpark)
-- **Data Visualization** (Power BI, Seaborn, Matplotlib)
+- **Data Visualization** (Power BI, Yandex Datalens, Seaborn, Matplotlib)
 - **A/B Testing** (Statistical significance, MDE, Guardrail metrics)
 - **CRM Analytics** (Segmentation, LTV/CAC/ROI)
 
@@ -21,9 +21,9 @@ Open to new opportunities in **Product Analytics** where I can leverage my exper
 Я **Продуктовый аналитик** с 4+ годами опыта в банковской аналитике, специализируюсь на A/B-тестировании, оптимизации воронок и юнит-экономике. Помогаю банкам расти, превращая данные в действия, которые дают реальный бизнес-эффект.
 
 ## 🛠️ Технологии и инструменты
-- **SQL** (MS SQL Server, PostgreSQL)
-- **Python** (Pandas, NumPy, SciPy)
-- **Визуализация данных** (Power BI, Seaborn, Matplotlib)
+- **SQL** (MS SQL Server, PostgreSQL, Clickhouse)
+- **Python** (Pandas, NumPy, SciPy, PySpark)
+- **Визуализация данных** (Power BI, Seaborn, Yandex Datalens, Matplotlib)
 - **A/B-тестирование** (статистическая значимость, MDE, барьерные метрики)
 - **CRM-аналитика** (сегментация, LTV/CAC/ROI)
 
